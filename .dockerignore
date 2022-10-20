@@ -1,9 +1,0 @@
-.git
-test
-tmp
-node_modules
-*.yaml
-.gitignore
-
-yaml
-log
